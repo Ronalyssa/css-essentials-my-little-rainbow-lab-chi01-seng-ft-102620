@@ -8,9 +8,10 @@ div {
   border-left-color: transparent; /* these remove the color from the left side */
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
+  id ="red"
 }
 
-<div id="red">
+<div >
 </div>
 
 #red { /* this selects any elements with the red id */
